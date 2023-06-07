@@ -5,4 +5,4 @@ NOTE: This notebook was used for a homework — we were tasked to choose 1 model
 
 For the purposes of the homework, the formula for F1 as well as other formulas from the confusion matrix have been specified.
 
-Check it out via [Kaggle Notebook](https://www.kaggle.com/code/denissejoycealido/supervised-model-cup).
+Check it out via my [Kaggle Notebook](https://www.kaggle.com/code/denissejoycealido/supervised-model-cup).
